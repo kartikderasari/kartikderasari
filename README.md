@@ -1,11 +1,11 @@
-<h1 align="center">Hey folks 👋, I'm Kartik Derasari</h1>
-<h3 align="center">A passionate Developer Community Builder & Program Manager from India</h3>
+<h1 >Hey folks 👋, I'm Kartik Derasari!</h1>
+<h3 >A passionate Developer Community Builder & Program Manager from India</h3>
 
 - 🔭 I build communities: **GDG Cloud Ahmedabad, DSC SOU, SOU IEEE SB**
 
 - 👨‍💻 To know more about me: [https://kartikderasari.me/](https://kartikderasari.me/)
 
-- 💬 Ask me about: **Machine Learning, Community Building, Program Management, Web Development**
+- 💬 Ask me about: **Web Development, Community Building and Program Management**
 
 - 📫 How to reach me **derasarikartik@gmail.com**
 
