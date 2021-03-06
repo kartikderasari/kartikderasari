@@ -1,20 +1,7 @@
-<h1 >Hey folks 👋, I'm Kartik Derasari!</h1>
-<h3 >A passionate Developer Community Builder & Program Manager from India</h3>
+## Hello, I am Kartik! 👋
 
-- 🔭 I build communities: **GDG Cloud Ahmedabad, DSC SOU, SOU IEEE SB**
+### **About**
 
-- 👨‍💻 To know more about me: [https://kartikderasari.me/](https://kartikderasari.me/)
-
-- 💬 Ask me about: **Web Development, Community Building and Program Management**
-
-- 📫 How to reach me **derasarikartik@gmail.com**
-
-- 😄 Pronouns: he, him, his
-
-<!-- - ⚡ Fun fact **Technology & Community can make wonders** -->
-
-<p align="center">
-<a href="https://twitter.com/kartik_derasari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/kartik_derasari" height="30" width="30"  /></a>
-<a href="https://linkedin.com/in/kartikderasari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kartikderasari/" height="30" width="30" /></a>
-<a href="https://instagram.com/kartik_derasari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/kartik_derasari" height="30" width="30" /></a>
-</p>
+- Currently learning JavaScript and Vue
+- Talk to me about Web Development and Community Management
+- Reach me out on [Email](mailto:derasarikartik@gmail.com), [Twitter](https://twitter.com/kartik_derasari), [LinkedIn](https://www.linkedin.com/in/kartikderasari/) or [Instagram](https://www.instagram.com/kartik_derasari/)
